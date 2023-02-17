@@ -1,0 +1,53 @@
+/* 
+button{
+    display: block !important;
+    margin:0 auto !important;
+}
+body{
+    background-color: gray;
+} */
+
+/* 
+.sidebar{
+    background-color: gray;
+    height: 100vh;
+    width: 350px;
+    position: relative;
+    transition:all 0.5s;
+}
+.sidebar i {
+    position:absolute;
+    top:15px;
+    right:15px;
+    color:white;
+    font-size: 30px;
+    cursor:pointer;
+}
+
+.hide-sidebar{
+    transform: translate(-300px);  
+}
+
+.menu{
+    width: 300px;
+} */
+
+
+/* #blog{
+    width: 100%;
+    height: 300px;
+}
+
+.item{
+  width:200px ;  
+  height: 200px;
+}
+
+  */
+
+
+  .box{
+    width: 300px;
+    height: 200px;
+    background-color: magenta;
+  }

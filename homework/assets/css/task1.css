@@ -1,0 +1,28 @@
+
+#header .inputs {
+
+   display:flex;
+   align-items: center;
+    margin-top: 66px;
+
+}
+
+#header .inputs input{
+    width: 500px;
+    margin:50px;
+}
+ #header .custmath {
+    margin-left: 300px;
+    justify-content:space-around;  
+ }
+
+ #header .custmath button{
+    width: 210px;
+    margin:10px;
+ }
+
+ #header .footer input{
+    margin-top:50px;
+    margin-left:400px;
+    width: 550px;
+ }
